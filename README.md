@@ -44,22 +44,20 @@
 
 <p>
 Home Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/1.1.png" alt="">
+<img src="public/screenshots/landingpagess" alt="">
 
 Google OAuth Sign in:
   <img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/2.png" alt="">
   
 Create Trip Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/4.4.png" alt="">
+<img src="public/screenshots/formss" alt="">
 
 View Trip Page: AI-generated Hotel Recommendations & Places to Visit
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/7.png" alt="" width="75%" align="center">
+<img src="public/screenshots/placesss" alt="" width="75%">
 
 My Trips Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/6.png" alt="">
+<img src="public/screenshots/mytripsss" alt="">
 
-Responsive view on mobile: <br>
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/8.jpg" alt="" width="30%" align="center">
 </p>
  
 

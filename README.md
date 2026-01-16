@@ -53,7 +53,7 @@ Create Trip Page:
 <img src="public/screenshots/formss" alt="">
 
 View Trip Page: AI-generated Hotel Recommendations & Places to Visit
-<img src="public/screenshots/placesss" alt="" width="75%" align="center">
+<img src="public/screenshots/placesss" alt="" width="75%">
 
 My Trips Page:
 <img src="public/screenshots/mytripsss" alt="">
